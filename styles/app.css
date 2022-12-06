@@ -33,3 +33,10 @@ ul {
     --txt-color: #131418;
     --txt-color-light: #ccd3f1;
 }
+
+body {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
